@@ -1,8 +1,8 @@
 # Code Book
 
 ## Identifiers
-subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
+* subject - The ID of the test subject
+* activity - The type of activity performed when the corresponding measurements were taken
 
 ## Measurements
 tBodyAcc-mean()-X              
@@ -86,9 +86,9 @@ fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq() 
 
 ## Activity Labels
-WALKING: subject was walking during the test
-WALKING_UPSTAIRS: subject was walking up a staircase during the test
-WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
-SITTING: subject was sitting during the test
-STANDING: subject was standing during the test
-LAYING: subject was laying down during the test
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
