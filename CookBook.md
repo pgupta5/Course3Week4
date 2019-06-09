@@ -1,10 +1,10 @@
-#Code Book
+# Code Book
 
-##Identifiers
+## Identifiers
 subject - The ID of the test subject
 activity - The type of activity performed when the corresponding measurements were taken
 
-##Measurements
+## Measurements
 tBodyAcc-mean()-X              
 tBodyAcc-mean()-Y                
 tBodyAcc-mean()-Z                
@@ -56,7 +56,7 @@ fBodyAcc-meanFreq()-Y
 fBodyAcc-meanFreq()-Z           
 fBodyAccJerk-mean()-X             
 fBodyAccJerk-mean()-Y            
- fBodyAccJerk-mean()-Z           
+fBodyAccJerk-mean()-Z           
 fBodyAccJerk-std()-X              
 fBodyAccJerk-std()-Y              
 fBodyAccJerk-std()-Z            
@@ -85,7 +85,7 @@ fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()       
 fBodyBodyGyroJerkMag-meanFreq() 
 
-##Activity Labels
+## Activity Labels
 WALKING: subject was walking during the test
 WALKING_UPSTAIRS: subject was walking up a staircase during the test
 WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
